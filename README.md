@@ -5,7 +5,7 @@ This project provides a two-part Python-based pipeline for identifying and track
 
 ---
 
-### 1. `comprehensive_list.py`
+### 1. comprehensive_list.py
 
 **Purpose**:  
 Filters through a comprehensive list of stocks, identifying those that are frequently traded and meet a specific volume threshold.
